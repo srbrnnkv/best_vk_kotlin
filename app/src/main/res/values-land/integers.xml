@@ -1,0 +1,4 @@
+<resources>
+    <!-- Горизонтальная ориентация: 4 колонки -->
+    <integer name="grid_columns">4</integer>
+</resources>

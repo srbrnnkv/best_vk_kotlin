@@ -1,0 +1,7 @@
+<resources>
+    <color name="square_even">#E53935</color>
+    <color name="square_odd">#1E88E5</color>
+    <color name="square_text">#FFFFFF</color>
+    <color name="square_shape_base">#FFFFFF</color>
+    <color name="launcher_background">#FFFFFF</color>
+</resources>

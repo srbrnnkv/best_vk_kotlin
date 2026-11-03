@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Квадратики</string>
+    <string name="add_square">Добавить квадрат</string>
+</resources>

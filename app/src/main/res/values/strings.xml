@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Squares</string>
+    <string name="add_square">Add square</string>
+    <string name="square_number" translatable="false">%1$d</string>
+</resources>
